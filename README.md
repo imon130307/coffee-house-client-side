@@ -1,4 +1,4 @@
-Coffee House aims to simplify organizing 🏕️ and participating in Coffee House for both administrators and users. It offers features such as managing camps, participant registration, payments 💳, and communication 📩, ensuring a seamless user experience.
+Coffee House aims to simplify organizing 🏕️ and participating in Coffee House for both administrators and users. It offers features such as managing users, participant registration, payments 💳, and communication 📩, ensuring a seamless user experience.
 
 ---
 
