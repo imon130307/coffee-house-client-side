@@ -51,7 +51,7 @@ Coffee House aims to simplify organizing 🏕️ and participating in Coffee Hou
 4. **Profile Management** 👤:
    - Update personal details and view profile information.
 
-5. **Manage Registered Camps** 🛠️:
+5. **Manage Registered users** 🛠️:
    - View and manage joined Coffee House, including payment and participation status.
 
 6. **Message Admin** 📩:
