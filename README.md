@@ -52,7 +52,7 @@ Coffee House aims to simplify organizing 🏕️ and participating in Coffee Hou
    - Update personal details and view profile information.
 
 5. **Manage Registered users** 🛠️:
-   - View and manage joined Coffee House, including payment and participation status.
+   - View and manage joined users, including payment and participation status.
 
 6. **Message Admin** 📩:
    - Send direct messages to the admin for inquiries.
