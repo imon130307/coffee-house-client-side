@@ -9,29 +9,29 @@ Coffee House aims to simplify organizing 🏕️ and participating in Coffee Hou
 
 ### Admin Panel 🧑‍💻
 1. **Admin Dashboard** 📊:
-   - Displays graphical representations of data (e.g., camp statistics, participant counts, and payments).
-   - Overview of total camps, participants, and earnings.
+   - Displays graphical representations of data (e.g., users statistics, participant counts, and payments).
+   - Overview of total users, participants, and earnings.
 
 2. **Admin Profile** 👤:
    - View and manage personal information.
    - Option to update details (email, name, password, etc.).
 
-3. **Add Camp** 🏕️:
-   - Add new camps with all necessary details like name, location, date, time, and fees.
+3. **Add user** 🏕️:
+   - Add new user with all necessary details like name, location, date, time, and fees.
 
-4. **Manage Camp** ✏️🗑️:
-   - Edit or delete existing camps.
+4. **Manage users** ✏️🗑️:
+   - Edit or delete existing user.
 
-5. **Manage Registered Camps** ✅❌:
+5. **Manage Registered users** ✅❌:
    - Approve, reject, or mark participants as pending.
-   - View participant details for each camp.
+   - View participant details for each Coffee House.
 
 6. **All Users** 🔄👥:
    - Manage all users (Admin, Moderator, Member).
    - Switch roles and delete users.
 
 7. **Upload Photos** 📸:
-   - Upload images to maintain a gallery for showcasing camp activities.
+   - Upload images to maintain a gallery for showcasing users activities.
 
 8. **Create Articles** 📝:
    - Write articles for sharing news, updates, or health tips.
@@ -63,7 +63,7 @@ Coffee House aims to simplify organizing 🏕️ and participating in Coffee Hou
 ---
 
 ### Additional Features ✨
-- **Popular Camps** 🌟: Highlight Coffee House with the most participants.
+- **Popular users** 🌟: Highlight Coffee House with the most participants.
 - **Top Participants** 🏅: Showcase the most active participants.
 - **Reviews** ✍️: Allow users to review Coffee House.
 - **Contact** 📞: Dedicated contact page for inquiries.
