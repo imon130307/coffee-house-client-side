@@ -63,7 +63,7 @@ const PopularProducts = () => {
       >
         Add Coffee
       </Link>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {coffees?.map((coffee) => (
           <div
             className="bg-[#F5F4F1] shadow-lg rounded-lg p-6 flex flex-col md:flex-row gap-4 hover:shadow-2xl hover:scale-y-105 transition-all duration-300"
